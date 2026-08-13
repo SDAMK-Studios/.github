@@ -3,7 +3,7 @@
 
 - 📛 Nome: **SDAMK Studios**
 
-- 🔭 Visão: **Tornar-nos referência no mercado de desenvolvimento de jogos para PC;**
+- 🔭 Visão: **Tornar-mos referência no mercado de desenvolvimento de jogos para PC;**
 
 - 📝 Descrição: **Somos uma empresa de desenvovimento de jogos, e como o nosso próprio nome diz queremos ser os "reis" e são as nossas habilidades, nosso comprometimento que nos torna capazes de fazermos isso;**
 
