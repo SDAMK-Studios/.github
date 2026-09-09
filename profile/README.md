@@ -1,6 +1,6 @@
 <div align="center">
     
-  <img src="https://github.com/SDAMK-Studios/.github/blob/main/profile/imagens/logo_SDAMK%20_STUDIOS.png?raw=true" alt="SDAMK Studios Logo" width="300" />
+  <img src="https://github.com/SDAMK-Studios/.github/blob/main/profile/imagens/logo_SDAMK%20_STUDIOS.png?raw=true" alt="SDAMK Studios Logo" width="150" />
   
   <h1>🎮 SDAMK Studios</h1>
   <h3><i>"Skills Do Always Make Kings"</i> • <span>Habilidades Sempre Fazem Reis</span></h3>
@@ -57,9 +57,9 @@ Atualmente, estamos desenvolvendo um jogo de RPG em turnos em **Java**, inspirad
 
 Abaixo estão os principais repositórios desenvolvidos pela equipe durante a disciplina de POO:
 
-- 🔐 **[Projeto 01 — Sistema de Login](./)**: Módulo de autenticação e controle de acesso.
-- 📒 **[Projeto 02 — Agenda de Contatos](./)**: Aplicação desktop criada com Java, Swing e MySQL.
-- 🎮 **[Projeto 03 — Jogo RPG (Estilo Pokémon)](./)**: Nosso projeto principal livre, focado no ecossistema e mecânicas de um jogo 2D em Java.
+- 🔐 **[Projeto 01 — Sistema de Login]**: Módulo de autenticação e controle de acesso.
+- 📒 **[Projeto 02 — Agenda de Contatos]**: Aplicação desktop criada com Java, Swing e MySQL.
+- 🎮 **[Projeto 03 — Jogo RPG (Estilo Pokémon)]**: Nosso projeto principal livre, focado no ecossistema e mecânicas de um jogo 2D em Java.
 
 
 ## 📫 Entre em Contato
