@@ -59,7 +59,7 @@ Abaixo estão os principais repositórios desenvolvidos pela equipe durante a di
 
 - 🔐 **[Projeto 01 — Sistema de Login]**: Módulo de autenticação e controle de acesso.
 - 📒 **[Projeto 02 — Agenda de Contatos]**: Aplicação desktop criada com Java, Swing e MySQL.
-- 🎮 **[Projeto 03 — Jogo RPG (Estilo Pokémon)]**: Nosso projeto principal livre, focado no ecossistema e mecânicas de um jogo 2D em Java.
+- 🎮 **[Projeto 03 — PokeIf(Jogo RPG Estilo Pokémon)]**: Nosso projeto principal livre, focado no ecossistema e mecânicas de um jogo 2D em Java.
 
 
 ## 📫 Entre em Contato
