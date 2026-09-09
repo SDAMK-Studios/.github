@@ -1,5 +1,7 @@
 <div align="center">
     
+  <img src="https://github.com/SDAMK-Studios/.github/blob/main/profile/imagens/logo_SDAMK%20_STUDIOS.png?raw=true" alt="SDAMK Studios Logo" width="300" />
+  
   <h1>🎮 SDAMK Studios</h1>
   <h3><i>"Skills Do Always Make Kings"</i> • <span>Habilidades Sempre Fazem Reis</span></h3>
 
