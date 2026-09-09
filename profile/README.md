@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Substitua a URL da imagem pela logo oficial da startup -->
-  <img src="imagens/logo_SDAMK_STUDIOS.png" alt="SDAMK Studios Logo" width="150" height="150" />
+  <img src="./profile/imagens/logo_SDAMK_STUDIOS.png" alt="SDAMK Studios Logo" width="150" height="150" />
     
   <h1>🎮 SDAMK Studios</h1>
   <h3><i>"Skills Do Always Make Kings"</i> • <span>Habilidades Sempre Fazem Reis</span></h3>
@@ -11,10 +11,8 @@
   <p>
     <a href="#-sobre-nós">Sobre Nós</a> •
     <a href="#-missão-visão-e-valores">Diretrizes</a> •
-    <a href="#-integrantes-e-funções">Equipe</a> •
     <a href="#-tecnologias">Tecnologias</a> •
     <a href="#-projetos-da-startup">Projetos</a> •
-    <a href="#-links-úteis">Links Úteis</a> •
     <a href="#-contato">Contato</a>
   </p>
 
