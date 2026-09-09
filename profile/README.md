@@ -1,7 +1,4 @@
 <div align="center">
-
-  <!-- Substitua a URL da imagem pela logo oficial da startup -->
-  <img src="./profile/imagens/logo_SDAMK_STUDIOS.png" alt="SDAMK Studios Logo" width="150" height="150" />
     
   <h1>🎮 SDAMK Studios</h1>
   <h3><i>"Skills Do Always Make Kings"</i> • <span>Habilidades Sempre Fazem Reis</span></h3>
