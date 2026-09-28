@@ -12,7 +12,7 @@
     <a href="#-missão-visão-e-valores">Diretrizes</a> •
     <a href="#-tecnologias">Tecnologias</a> •
     <a href="#-projetos-da-startup">Projetos</a> •
-    <a href="#-contato">Contato</a> 
+    <a href="#-entre-em-contato">Contato</a> 
   </p>
 
   <p>
