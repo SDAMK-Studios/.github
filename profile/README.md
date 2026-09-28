@@ -12,7 +12,7 @@
     <a href="#-missão-visão-e-valores">Diretrizes</a> •
     <a href="#-tecnologias">Tecnologias</a> •
     <a href="#-projetos-da-startup">Projetos</a> •
-    <a href="#-contato">Contato</a> •
+    <a href="#-contato">Contato</a> 
   </p>
 
   <p>
@@ -62,7 +62,7 @@ Abaixo estão os principais repositórios desenvolvidos pela equipe durante a di
 - 🎮 **[Projeto 03 — PokeIf(Jogo RPG Estilo Pokémon)]**: Nosso projeto principal livre, focado no ecossistema e mecânicas de um jogo 2D em Java.
 
 
-## 📫 Entre em Contato
+## 📫 Entre em Contato <p id=-contato></p>
 
 Estamos sempre abertos a novas parcerias, ideias e feedbacks!
 
